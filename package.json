@@ -1,6 +1,9 @@
 {
   "name": "dokku-nodejs-test",
   "version": "1.0.0",
+  "engines": {
+    "node": "17.x"
+  },
   "description": "Testing dokku deploys with this nodejs app",
   "main": "index.js",
   "scripts": {
